@@ -7,5 +7,5 @@ VueJS + Vuetify
 # Back-end
 Firebase
 
-* Para levantar ambiante de desarrollo *
-npm run serve
+* Para levantar ambiante de desarrollo: npm run serve
+* Para preparar ambiente en producción: npm run build
