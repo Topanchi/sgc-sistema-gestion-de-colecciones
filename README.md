@@ -1,16 +1,29 @@
-# sgc-sistema-gestion-de-colecciones
-Sistema de Gestión de Colecciones
+# sgcsistemagestordecolecciones
 
-# Front-end
-VueJS + Vuetify
+## Project setup
+```
+npm install
+```
 
-# Back-end
-Firebase
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-* Para levantar ambiante de desarrollo: npm run serve
-* Para preparar ambiente en producción: npm run build
-* Para subir a hodting que provee firebase:
+### Compiles and minifies for production
+```
+npm run build
+```
 
-** firebase login
-** firebase init
-** firebase deploy (esto después de realizar npm run build)
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
